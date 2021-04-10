@@ -1,5 +1,5 @@
 
- - 👋 Hi, I’m @musharafuddin
+##### - 👋 Hi, I’m @musharafuddin
 
 - 🔭 I’m currently working on ...
 
@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: I am new to coding
 
-- 📫 How to reach me: You can Reach me by following me 
+###### - 📫 How to reach me: You can Reach me by following me 
 
 
 
