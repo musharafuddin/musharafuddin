@@ -1,6 +1,5 @@
 
-
-#### - 👋 Hi, I’m @musharafuddin
+ 👋 Hi, I’m @musharafuddin
 
 - 🔭 I’m currently working on ...
 
